@@ -1,0 +1,2 @@
+# nextjs_prac
+nextjs
